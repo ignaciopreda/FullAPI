@@ -1,0 +1,22 @@
+{
+  "name": "fullappmean",
+  "version": "1.0.0",
+  "description": "app using mean stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "MEAN",
+    "stack"
+  ],
+  "author": "Ignacio Preda",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.0",
+    "morgan": "^1.9.0"
+  }
+}
